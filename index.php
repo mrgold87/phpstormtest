@@ -1,5 +1,5 @@
 <?php
-
+//новый коммент для теста
 
 function balance($left, $right)
 {
