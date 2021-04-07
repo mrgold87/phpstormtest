@@ -1,5 +1,6 @@
 <?php
 //новый коммент для теста
+//комит 3
 
 function balance($left, $right)
 {
